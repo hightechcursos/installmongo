@@ -11,5 +11,8 @@ chmod +x installmongo.sh && ./installmongo.sh
 
 Agora siga os passos do instalador e divirta-se.
 
+================================================
+
+OBS: O instalador colocará os arquivos na pasta de sistema /usr (/usr/bin, /usr/lib e /usr/include). Após a instalação concluída você pode remover os arquivos que o instalador baixou na pasta onde você rodou o script, eles não serão mais necessários.
 
 Criado por Guilherme Rambo (http://www.screencaster.com.br)
