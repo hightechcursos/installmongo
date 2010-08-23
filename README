@@ -1,0 +1,15 @@
+Instalador automágico do MongoDB para Mac
+
+Testado apenas no Snow Leopard 10.6.4, deve funcionar em qualquer versão.
+
+COMO INSTALAR
+=============
+
+Baixe o arquivo installmongo.sh, coloque-o em qualquer pasta e no terminal, dentro da pasta, rode:
+
+chmod +x installmongo.sh && ./installmongo.sh
+
+Agora siga os passos do instalador e divirta-se.
+
+
+Criado por Guilherme Rambo (http://www.screencaster.com.br)
